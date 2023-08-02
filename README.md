@@ -1,2 +1,9 @@
-# DEmo-project
-as a task taking this project
+<p align="center">
+<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+
+
+## Setup
+
+```
+npm i && npm start
+```
